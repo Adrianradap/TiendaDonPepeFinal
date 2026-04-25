@@ -1,0 +1,14 @@
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\Nueva_tiendaDonPEPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\Nueva_tiendaDonPEPE.AssemblyInfoInputs.cache
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\Nueva_tiendaDonPEPE.AssemblyInfo.cs
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\Nueva_tiendaDonPEPE.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\bin\Debug\net10.0\Nueva_tiendaDonPEPE.exe
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\bin\Debug\net10.0\Nueva_tiendaDonPEPE.deps.json
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\bin\Debug\net10.0\Nueva_tiendaDonPEPE.runtimeconfig.json
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\bin\Debug\net10.0\Nueva_tiendaDonPEPE.dll
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\bin\Debug\net10.0\Nueva_tiendaDonPEPE.pdb
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\Nueva_tiendaDonPEPE.dll
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\refint\Nueva_tiendaDonPEPE.dll
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\Nueva_tiendaDonPEPE.pdb
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\Nueva_tiendaDonPEPE.genruntimeconfig.cache
+C:\Users\Santiago\OneDrive\Desktop\Progra2\Nueva_tiendaDonPEPE\obj\Debug\net10.0\ref\Nueva_tiendaDonPEPE.dll

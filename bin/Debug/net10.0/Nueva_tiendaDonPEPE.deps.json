@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Nueva_tiendaDonPEPE/1.0.0": {
+        "runtime": {
+          "Nueva_tiendaDonPEPE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nueva_tiendaDonPEPE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
